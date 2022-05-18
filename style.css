@@ -1,0 +1,61 @@
+body {
+	font-family: "Roboto Mono", monospace;
+	min-height: 400px;
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/61RYn+RqWrL.png");
+	background-color: #000000;
+	background-size: 100vh;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+}
+
+.container {
+	text-align: center;
+	padding: 20px;
+	height: 100vh;
+}
+
+.page-title {
+	color: #b58500;
+	margin: 0 0 5px;
+	-webkit-text-stroke-width: 0.5px;
+	-webkit-text-stroke-color: #ffffff;
+}
+
+.page-subtitle {
+	color: #b58500;
+	margin-top: 5px;
+	font-size: 25px;
+	-webkit-text-stroke-width: 0.2px;
+	-webkit-text-stroke-color: #ffffff;
+}
+
+.page-logo {
+	width: 200px;
+}
+
+input {
+	margin: 12px;
+	padding: 6px;
+	border-radius: 5px;
+}
+
+label {
+	color: #b58500;
+	font-size: 20px;
+	-webkit-text-stroke-width: 0.2px;
+	-webkit-text-stroke-color: #000;
+}
+
+button {
+	margin-top: 12px;
+	padding: 4px 8px;
+	border-radius: 10px;
+	background: #ffffff;
+}
+
+h2 {
+	color: #b58500;
+	font-size: 30px;
+	-webkit-text-stroke-width: 0.5px;
+	-webkit-text-stroke-color: #ffffff;
+}
